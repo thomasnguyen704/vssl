@@ -1,22 +1,52 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "first": "Thomas",
+      "last": "Nguyen",
+      "email": "thomasnguyen704@gmail.com"
+    },
+    {
+      "id": 2,
+      "first": "Emma",
+      "last": "Nguyen",
+      "email": "emmanguyen704@gmail.com"
+    },
+    {
+      "id": 3,
+      "first": "Carolynn",
+      "last": "Mai",
+      "email": "carolynnmai@gmail.com"
+    }
+  ],
   "items": [
     {
-      "body": "hello from record 1 update",
-      "title": "item 1",
+      "id": 1,
+      "userId": 3,
       "date": "2020-01-17",
-      "id": 1
+      "title": "Title 1",
+      "body": "Hello from record 1"
     },
     {
-      "body": "hello from record 2",
+      "id": 2,
+      "userId": 2,
       "date": "2020-01-02",
-      "title": "item 2",
-      "id": 2
+      "title": "Title 2",
+      "body": "Hello from record 2"
     },
     {
-      "body": "hello from record 3",
+      "id": 3,
+      "userId": 1,
       "date": "2020-01-22",
-      "title": "item 3",
-      "id": 3
+      "title": "Title 3",
+      "body": "Hello from record 3"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "date": "2020-01-22",
+      "title": "Title 4",
+      "body": "Hello from record 4"
     }
   ]
 }

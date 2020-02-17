@@ -1,6 +1,6 @@
 <template>
   <div>
-    home
+    <p class="display-4">A list of users and items demonstrating a one to many relationship of a user linked to item(s).</p>
   </div>
 </template>
 
