@@ -1,25 +1,36 @@
 <template>
-  <b-form>
-    <b-form-group id="group-id" class="text-capitalize" label="id" label-for="input-id">
-      <b-form-input input="input-id" readonly v-model="item.id"/>
-    </b-form-group>
-    
-        <b-form-group id="group-date" class="text-capitalize" label="date" label-for="input-date">
-      <b-form-input input="input-date" type="date" v-model="item.date"/>
-    </b-form-group>
-
-    <b-form-group id="group-title" class="text-capitalize" label="title" label-for="input-title">
-      <b-form-input input="input-title" v-model="item.title"/>
-    </b-form-group>
-
-    <b-form-group id="group-body" class="text-capitalize" label="body" label-for="input-body">
-      <b-form-textarea input="input-body" rows="3" v-model="item.body"/>
-    </b-form-group>
-
-    <b-button variant="outline-secondary" class="mr-2" @click="cancelBack">Cancel</b-button>
-    <b-button variant="primary" @click="saveItem">Save</b-button>
-  </b-form>
+  <b-container class="py-5 mb-5">
+    <b-row>
+      <b-col>
+        <b-img :src="require('../assets/'+item.img)" fluid center class="prodImg"></b-img>
+      </b-col>
+      <b-col>
+        <b-img :src="require('../assets/'+item.img2)" fluid center class="prodImg"></b-img>
+      </b-col>
+    </b-row>
+    <hr class="my-5"/>
+    <b-row>
+      <b-col sm="12">
+        <h2>{{item.title}}</h2>
+        <h5 class="mb-4">By {{item.manufacture}}</h5>
+        <div v-html="item.body"></div>
+      </b-col>
+    </b-row>
+    <hr class="my-5"/>
+    <b-row>
+      <b-col>
+        <p><a :href="item.link" target="_blank">More information from {{item.manufacture}}.</a></p>
+        <p>Contact <a href="mailto: ray@supply.vet"> Ray Hamby </a> for  pricing information.</p>
+      </b-col>
+    </b-row>
+  </b-container>
 </template>
+
+<style scoped>
+  .prodImg {
+    max-height: 30vh;
+  }
+</style>
 
 <script>
   import { mapActions, mapGetters } from 'vuex'
