@@ -23,6 +23,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
 ## Start JSON Serve
 Terminal: json-server --watch db.json
