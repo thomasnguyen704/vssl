@@ -5,7 +5,6 @@ set -e
 
 # build
 npm run build
-json-server --watch db.json
 
 # navigate into the build output directory
 cd dist
@@ -16,5 +15,7 @@ git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:thomasnguyen704/vssl.git master:gh-pages
+
+json-server --watch db.json
 
 cd -
