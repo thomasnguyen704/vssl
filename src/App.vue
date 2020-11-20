@@ -22,9 +22,9 @@
           <b-col>
             <address>
               <a href="http://maps.google.com/?q=1600 Pennsylvania Ave, Washington, District of Columbia, 20006">
-                Company Name <br/>
-                1600 Pennsylvania Ave. <br/>
-                Washington D.C. 20006
+                Veterans Specialty Supply + Logistics <br/>
+                1 Perimeter Park South 100N Rm. 149 <br/>
+                Birmingham AL 35243 U.S.A.
               </a>
             </address>
           </b-col>

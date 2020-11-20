@@ -7,18 +7,18 @@
         </video>
       <div class="container h-100 pb-5">
         <div class="d-flex h-100 text-center align-items-center pb-5">
-          <div class="w-100 text-white pb-5">
+          <div class="w-100 text-white px-5">
             <img class="brandImg" src="../assets/logo.png" />
-            <p class="lead">Mission Statement.</p>
+            <h3 class="font-weight-light py-4">Providing exceptional quality personal protective equipment to companies that place staff safety as a key ingredient to the success of their organization.</h3>
             <b-button>More</b-button>
           </div>
         </div>
       </div>
     </header>
+
     <article class="d-flex align-items-center py-5">
       <b-container class="text-center">
-        <h1>About the Company</h1>
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <h3 class="font-weight-light">The mission of Veterans Specialty Supply + Logistics is to provide exceptional quality personal protective equipment to companies that place staff safety as a key ingredient to the success of their organization. VSSL is committed to providing exceptional customer service to support the safety goals of their clients and to provide products that will have a positive impact on the safety statistics of our clients.</h3>
       </b-container>
     </article>
 
@@ -26,8 +26,14 @@
       <b-container>
         <b-row>
           <b-col sm="6">
-            <h1>About the Product</h1>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h1>Our Goals</h1>
+            <ul class="lead">
+              <li>To continually focus on top-quality customer service.</li>
+              <li>To provide innovative products.</li>
+              <li>To be responsive to the changing needs of the safety market.</li>
+              <li>The products provided by VSSL are considered quality items that will improve the safety of the employee.</li>
+              <li>Veterans Specialty Supply + Logistics represents a number of suppliers and strives to only distribute those products that would be of the highest quality that meet the industry standards.</li>
+            </ul>
           </b-col>
           <b-col sm="6">
             <img src="../assets/logo.png" class="img-fluid px-5"/>
@@ -111,7 +117,7 @@
     width: 50%;
   }
   article {
-    min-height: 80vh;
+    min-height: 70vh;
   }
   .darkBg {
     background-color: dimgrey;
