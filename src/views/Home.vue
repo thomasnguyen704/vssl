@@ -10,13 +10,13 @@
           <div class="w-100 text-white px-5">
             <img class="brandImg" src="../assets/logo.png" />
             <h3 class="font-weight-light py-4">Providing exceptional quality personal protective equipment to companies that place staff safety as a key ingredient to the success of their organization.</h3>
-            <b-button>More</b-button>
+            <anchor-router-link :to="{name: 'home', hash: '#article'}" class="btn btn-danger">More</anchor-router-link>
           </div>
         </div>
       </div>
     </header>
 
-    <article class="d-flex align-items-center py-5">
+    <article class="d-flex align-items-center py-5" id="article">
       <b-container class="text-center">
         <h3 class="font-weight-light">The mission of Veterans Specialty Supply + Logistics is to provide exceptional quality personal protective equipment to companies that place staff safety as a key ingredient to the success of their organization. VSSL is committed to providing exceptional customer service to support the safety goals of their clients and to provide products that will have a positive impact on the safety statistics of our clients.</h3>
       </b-container>
@@ -69,6 +69,9 @@
 </template>
 
 <style scoped>
+  html {
+    scroll-behavior: smooth;
+  }
   header {
     position: relative;
     background-color: black;
@@ -126,12 +129,12 @@
 </style>
 
 <script>
-// @ is an alias to /src
-// import HelloWorld from '@/components/HelloWorld.vue'
+import AnchorRouterLink from 'vue-anchor-router-link'
 
 export default {
   name: 'Home',
   components: {
+    AnchorRouterLink
   }
 }
 </script>
