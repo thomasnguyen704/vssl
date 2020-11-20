@@ -4,8 +4,8 @@
 set -e
 
 # build
-json-server --watch db.json
 npm run build
+json-server --watch db.json
 
 # navigate into the build output directory
 cd dist
