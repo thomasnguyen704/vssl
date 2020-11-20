@@ -2,90 +2,76 @@
   "items": [
     {
       "id": 1,
-      "userId": 3,
       "title": "COVID-19 IgG/IgM Rapid Test",
       "img": "001_1.png",
       "img2": "001_2.png",
       "manufacture": "Healgen",
       "link": "https://www.healgen.com/if-respiratory-covid-19",
-      "body": "<p>The COVID-19 IgG/IgM (Whole Blood/Serum/Plasma) Rapid Test Device utilizes lateral flow technology for the qualitative, differential detection of both anti-SARS-CoV-2 IgM and IgG antibodies. In general, antibodies can be detected 1-3 weeks after infection. This test is intended to screen patients for SARS-CoV-2 antibodies. </p> <p>Coronaviruses are enveloped RNA viruses that are distributed broadly among humans, other mammals and birds that cause respiratory, enteric, hepatic and neurologic diseases. Four viruses - 229E, OC43, NL63 and HKU1 are prevalent and typically cause common cold symptoms in immunocompromised individuals. Three other strains SARS-CoV, MERS-CoV and SARS-CoV-2 (COVID-19) can be transmitted from between non-human vertebrates to humans.</p> <p><strong>Warning: </strong>This test has been authorized by FDA under an EUA for use by authorized laboratories. This test has not been FDA cleared or approved. This test has been authorized only for the presence of IgM and IgG antibodies against SARS-CoV-2, not for any other viruses or pathogens. This test is only authorized for the duration of the declaration that circumstances exist justifying the authorization of emergency use of in vitro diagnostics for detection and/or diagnosis of COVID-19 under Section 564(b)(1) of the Act, 21 U.S.C. § 360bbb-3(b)(1), unless the authorization is terminated or revoked sooner. Positive results may be due to past or present infection with non-SARS-CoV-2 coronavirus strains, such as coronavirus HKU1, NL63, OC43, or 229E. This product is intended for professional use and not for home use. Not for the screening of donated blood.</p>"
+      "body": "<p></p>"
     }, {
       "id": 2,
-      "userId": 2,
       "title": "Rapid COVID-19 Antigen Test",
       "img": "002_1.png",
       "img2": "002_2.png",
       "manufacture": "Healgen",
       "link": "https://www.healgen.com/if-respiratory-covid-19-antigen",
-      "body": "<p>The Rapid COVID-19 Antigen Test is an in immunochromatographic assay for the qualitative detection of nucleocapsid protein antigen from SARS-CoV-2 in direct nasopharyngeal (NP) swab specimens from individuals within the first 10 days of symptom onset.</p> <p>The novel coronaviruses belong to the β genus. COVID-19 is an acute respiratory infectious disease. Currently, individuals infected by SARS-CoV-2 are the main source of transmission; asymptomatic carriers are also known as a source of transmission. Based on the current epidemiological information, the incubation period can last from 1 to 14 days, where the average time before symptoms occur is about 5 days. Symptoms include fever or chills, cough, shortness of breath, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, runny nose, nausea or vomiting and diarrhea.</p> <p><strong>Not for sale within the US. Availability of product is subject to various international regulatory requirements.</strong></p>"
+      "body": "<p>/p>"
     }, {
       "id": 3,
-      "userId": 1,
       "title": "Assorted PPE",
       "img": "003_1.jpg",
       "img2": "003_2.jpg",
       "manufacture": "Superior Glove",
       "link": "https://www.superiorglove.com/en/catalogsearch/result/?q=dispos",
-      "body": "Superior Glove® is one of North America’s leading manufacturers and suppliers of work gloves. A respected source for thousands of customers, Superior Glove® has been in the business since 1910. With four manufacturing facilities, we are able to serve customers globally. Specializing in cut-resistant gloves, we are also licensed manufacturers of Kevlar® and Dyneema® products and other high-quality work gloves for every industry."
+      "body": "<p>/p>"
     }, {
       "id": 4,
-      "userId": 1,
       "title": "PPE, Gloves",
       "img": "004_1.jpg",
       "img2": "004_2.jpg",
       "manufacture": "Hartalega",
       "link": "https://hartalega.com.my/products/healthcare-laboratory-industrial-gloves/?tab=healthcare",
-      "body": "<p>Hartalega was the inventor of the world’s first lightweight Nitrile glove in 2005, which caused a demand shift from latex to nitrile gloves all over the globe. Needless to say, we are now the largest producer of nitrile gloves in the world, capable of manufacturing 39 billion gloves a year and will progressively expand to 43.7 billion gloves in 2020.</p><p>Hartalega offers a range of products, superior in quality, and critical protection. There is no compromise in our manufacturing standards, in fact we are proud to consistently exceed international quality standards. This is why we are known and trusted, worldwide.</p>"
+      "body": "<p>/p>"
     }, {
       "id": 5,
-      "userId": 1,
       "title": "PPE, Gloves",
       "img": "005_1.jpg",
       "img2": "005_2.jpg",
       "manufacture": "Skymed",
       "link": "http://skymed.in/product-category/surgical-gloves/",
-      "body": "<p>Skymed Gowns has designed with safety, comfort and flexibility. Our range of gowns offers different styles depends on the choice and application with different fabrics that has unique features.</p><p>Skymed surgical gloves are made from natural rubber latex which provides excellent tactile sensitivity and comfort. Latex material is known to have very high elasticity. Skymed gloves are made with extra rough surface for better instrument grip without compromising on sensitivity. We offer sterile, non-sterile and examination gloves in various sizes. Skymed gloves are in strict compliance with international standards.</p>"
+      "body": "<p>/p>"
     }, {
       "id": 6,
-      "userId": 1,
       "title": "PPE, Gloves",
       "img": "006_1.jpg",
       "img2": "006_2.jpg",
       "manufacture": "Cranberry Global",
       "link": "https://www.cranberryglobal.com/evolve",
-      "body": "<p>The Evolve 300 Nitrile Powder Free Examination Gloves are Cranberry’s latest and softest gloves yet, combining comfort and tensile strength without sacrificing tactile sensitivity. Cranberry’s exclusive EvoSoft™ formulation gives Evolve a unique silk-like attribute that is both soft and strong with textured fingertips for precise gripping under all operating conditions.</p>"
+      "body": "<p>/p>"
     }, {
       "id": 7,
-      "userId": 1,
       "title": "PPE, Gloves",
       "img": "007_1.jpg",
       "img2": "007_2.png",
       "manufacture": "Sri Trang Gloves",
       "link": "https://www.sritranggloves.com/en#fp-product",
-      "body": "<p>We offer a wide range of high-quality natural latex and nitrile examination gloves as well as general-purpose disposable gloves, both powdered and powder-free, catering to a wide variety of applications, including healthcare and medical, food processing, food handling, manufacturing and operations where hygiene standards come first.</p>"
+      "body": "<p>/p>"
     }, {
       "id": 8,
-      "userId": 1,
       "title": "Health Care Particulate Respirator and Surgical Mask 1860, N95",
       "img": "008_1.jpg",
       "img2": "008_2.jpg",
       "manufacture": "3M",
       "link": "https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Health-Care-Particulate-Respirator-and-Surgical-Mask-1860-N95-120-EA-Case/?N=5002385+3294795990&rt=rud",
-      "body": "<p>This health care particulate respirator and surgical mask helps provide respiratory protection against certain airborne biological particles. It is disposable and fluid resistant to splash and spatter of blood and other infectious material. </p> <p>This healthcare respirator is designed to help provide respiratory protection for the wearer. It meets CDC guidelines for Mycobacterium tuberculosis exposure control. As a disposable particulate respirator, it is intended to help reduce wearer exposure to certain airborne particles including those generated by electrocautery, laser surgery, and other powered medical instruments. As a surgical mask, it is designed to be fluid resistant to splash and spatter of blood and other infectious materials.</p><p>Suggested settings and applications: Operating Rooms, Clinics, TB Wards, Patient Care, Labor and Delivery, Infection Control Practices, Laboratory, emergency or pandemic preparedness planning, stockpiling, etc.</p><p><strong>Warning: </strong>These respirators help reduce exposures to certain airborne contaminants. Before use, the wearer must read and understand the User Instructions provided as a part of the product packaging. In the U.S., a written respiratory protection program must be implemented meeting all the requirements of OSHA 1910.134 including training, fit testing and medical evaluation. In Canada, CSA standards Z94.4 requirements must be met and/or requirements of the applicable jurisdiction, as appropriate. Misuse may result in sickness or death. For proper use, see package instructions.</p>"
+      "body": "<p>/p>"
     }, {
       "id": 9,
-      "userId": 1,
       "title": "Particulate Respirator 8210, N95",
       "img": "009_1.jpg",
       "img2": "009_2.jpg",
       "manufacture": "3M",
       "link": "https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Particulate-Respirator-8210-N95-160-EA-Case/?N=5002385+3294780268&rt=rud",
-      "body": "<p>During the public health emergency of the COVID-19 pandemic, these standard N95 “industrial” respirators may be used by healthcare professionals according to the U.S. FDA’s Emergency Use Authorization (EUA). 3M™ Particulate Respirator 8210 is not cleared by the U.S. FDA as a surgical mask, as a surgical mask and is not considered fluid resistant, therefore a face shield must be worn during use.</p> <p>3M™ Particulate Respirator 8210, N95 is a disposable particulate respirator that is designed to help provide reliable respiratory protection of at least 95 percent filtration efficiency against certain non-oil based particles. This respirator is designed for use for particles such as those from grinding, sanding, sweeping, sawing, bagging, or other dusty operations. This respirator can also help reduce inhalation exposures to certain airborne biological particles (examples: mold, Bacillus anthracis, Mycobacterium tuberculosis), but cannot eliminate the risk of contracting infection, illness, or disease. The respirator incorporates 3M’s proprietary technology with advanced electrostatically charged microfiber filter media designed for ease of breathing. This respirator is compatible with a variety of protective eyewear and hearing protection.</p> <p>This particulate respirator is NIOSH (National Institute for Occupational Safety and Health) approved for environments containing certain non-oil based particles and provides at least 95 percent filter efficiency.</p><p>Breathing hazardous particles can pose a risk to your health. NIOSH, a Federal government regulatory agency, has tested and approved the 3M Particulate Respirator 8210, which is designed to help reduce exposure to certain airborne particles.</p> <p><strong>Warning: </strong> These respirators help reduce exposures to certain airborne contaminants. Before use, the wearer must read and understand the User Instructions provided as a part of the product packaging. In the U.S., a written respiratory protection program must be implemented meeting all the requirements of OSHA 1910.134 including training, fit testing and medical evaluation. In Canada, CSA standards Z94.4 requirements must be met and/or requirements of the applicable jurisdiction, as appropriate. Misuse may result in sickness or death. For proper use, see package instructions, supervisor, or call 3M OH&ESD Technical Service in USA at 1-800-243-4630 and in Canada at 1-800-267-4414.</p>"
-    }
-  ],
-  "users": [
-    {
-      "id": 1
+      "body": "<p>/p>"
     }
   ]
 }
