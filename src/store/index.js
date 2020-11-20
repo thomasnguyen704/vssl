@@ -7,7 +7,7 @@ import router from '../router';
 
 Vue.use(Vuex);
 
-const api = 'http://localhost:3000';
+const api = 'https://my-json-server.typicode.com/thomasnguyen704/test_api';
 
 const state = {
   users: [],
