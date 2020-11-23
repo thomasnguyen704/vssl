@@ -13,6 +13,7 @@
       <b-col sm="12">
         <h2>{{item.title}}</h2>
         <h5 class="mb-4">By {{item.manufacture}}</h5>
+        <p v-html="item.body"></p>
       </b-col>
     </b-row>
     <hr class="my-5"/>
