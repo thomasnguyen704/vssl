@@ -48,16 +48,36 @@
         <b-row class="py-5">
           <b-col>
             <b-card-group deck>
-              <b-card title="Person 1" :img-src="require('../assets/person.jpg')" img-alt="Image" img-top>
+              <b-card 
+                title="Ray Hamby" 
+                sub-title="Managing Partner"
+                :img-src="require('../assets/person.jpg')" 
+                img-alt="Ray Hamby" 
+                img-top
+              >
+                <b-card-text>
+                  <p>Ray Hamby is a Managing Partner of Veterans Specialty Supply and Logistics, a SDVOSB (Service-Disabled Veteran-Owned Small Business) company.</p>
+                  <p>Before starting VSSL, Ray, a Marine Corps disabled veteran, spent several years providing support for various government contracts with Venturi, Inc and Jacobs Engineering.</p>
+                  <p>Ray is married to Kim and they have one daughter, Parker Elizabeth.</p>
+                </b-card-text>
+              </b-card>
+              <b-card 
+                title="Name 2" 
+                sub-title="Position"
+                :img-src="require('../assets/person.jpg')" 
+                img-alt="Name" 
+                img-top
+              >
                 <b-card-text> This is a wider card with supporting text below as a natural lead-in to additional content.
                 This content is a little bit longer. </b-card-text>
               </b-card>
-              <b-card title="Person 2" :img-src="require('../assets/person.jpg')" img-alt="Image" img-top>
-                <b-card-text> This is a wider card with supporting text below as a natural lead-in to additional content.
-                This content is a little bit longer. </b-card-text>
-              </b-card>
-              <b-card title="Person 3" :img-src="require('../assets/person.jpg')" img-alt="Image" img-top>
-                <b-card-text> This is a wider card with supporting text below as a natural lead-in to additional content.
+              <b-card 
+                title="Name 3" 
+                sub-title="Position"
+                :img-src="require('../assets/person.jpg')" 
+                img-alt="Name" 
+                img-top
+              >                <b-card-text> This is a wider card with supporting text below as a natural lead-in to additional content.
                 This content is a little bit longer. </b-card-text>
               </b-card>
             </b-card-group>

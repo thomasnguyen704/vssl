@@ -1,10 +1,10 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import home from '../views/Home.vue';
-import users from '../views/users.vue';
-import user from '../views/user.vue';
 import items from '../views/items.vue';
 import item from '../views/item.vue';
+import resources from '../views/resources.vue';
+
 
 Vue.use(VueRouter);
 
@@ -17,17 +17,6 @@ const routes = [
     component: home
   },
   {
-    path: '/users',
-    name: 'users',
-    component: users
-  },
-  {
-    path: '/user/:id',
-    name: 'user',
-    component: user,
-    props: parseProps
-  },
-  {
     path: '/items',
     name: 'items',
     component: items
@@ -37,6 +26,11 @@ const routes = [
     name: 'item',
     component: item,
     props: parseProps
+  },
+  {
+    path: '/resources',
+    name: 'resources',
+    component: resources
   }
 ];
 
